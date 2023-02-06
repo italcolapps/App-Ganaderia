@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ganaderia-301014",
+  "private_key_id": "360ba9db8bbed9ceef7830d0be165458e8c2051d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCulopJ+aKOUVWs\nHZKjacsjihgZqBETrb01l1B6M07NvvnkYYfn/dBy+Z3z6luuaHfvJfEDhhqhTKGe\nH3/LA99tGcP5ESM9wwyLUU5+ZGWntcTd7uUuJDbjiBxKod4u5Q9XFAYiTvVwaz78\nZrLo5WXYCZKq+MwdKjqjnVCizyMPtlI40edEnVmaS75+mw6o8DRjH08EukgYLtIE\nZVpMroLoz/9Z7gpUP+ovaihHIQx4aOZwQaYyg+vKylE10GUt3zSHW8CHs+lejsXs\np0D+HjIHPSMf5ISdVT+5eOnAgJMzf8Py6wp8a2VSrffohp8pz+DwoJSMXZgo8osV\nFItd68whAgMBAAECggEABThbVWun8SnW/iTVYvqJcEGOElX7VRDWxX97G1JFfuL2\nTr5d+CFCI66ZavxU24XEYJj28ug7i4XdQbtMS1jNQVz55kyIFsNKRgVLS73AU90c\nRYIB0H5qSo/slPcwIQu93g3LV/3aJRoRzwMaQkWEpRVhMSiWqssTJ9v5l/VJ+uDd\nJMoQnUj58H4jUbs4HTvrrGbe9sqUmWdjvNM6pITe1XqcCy5tFU3ILsbs46M17QPT\nd0SWaV6ef5bxV6Z+UaoFZ2yg+qxImpTkqfravAsJYTGJgQ7q5NdMRN3vCUZqT7Z1\ntxWCoZvwI/MA17lxKv71xQkuX0x+O6n2s4AvCCEOqQKBgQDioVzxJVAsL8iMJrIU\nMIj7ubSrX4k+d3PTl9H9nOYxBsimmadazF2BPa99JFLufHGJ+Z5XNjVULQibv3Z+\n8dDNeu9TOExHeIwNieemNsr23bN834wZvGOwTfGZsLAIgXGbmCy2mdsqbeQjo+nk\nl2KBSmEisL2RCAYXpJSUYoUvqQKBgQDFNqJbJSQuQMGt6nhNhvLx643apuO45emn\nJ2Yw6obImjtGNJGH/JwOG22fORES/HjlYZH6+LXWzcJe9YxFh2BbDCLdrZBeIPl2\nJmv3F1SGndN69qVW9cGNDANZVPgWiZBsYYd6gzDHeuZkE3QNllXSvwnM+RYY+TcW\nXdai9w5juQKBgQDFJaBHerEirzKjkOnrHEmdyW+8gPBQMfPFhtW67KlmzsLwAsyN\n9SgGTNYDY/zsz76pS0eOEG8V2dMaQdVgGxYMGjxlRZ09s0UKZgPpGNM5K6V/JKyo\nmrSR40wf6Y9I5uogc6G5+1+nqk8DHg1SuMqNNFoJpnxR1QwPtzE1X/sCeQKBgQCY\nqMkW+vI955zFbsn/YWYwhKHDTwraNwcegG4nkXQSVulpWAoLlSyL8wlxhnBEHTHM\nhjHFb7767z312efibn/VGtjmdpNZefcBUY6jr+ibaBKrjb/BR+2yrEjvXsnIUGZ+\nryR7XpBk6irr7u8YEXaP85e3ll1XqZrN8ofSkKIP6QKBgB7a41FEDaZe1+aqOsBg\nFlV0VMFqq8X98WNEVOy/NBl2gUuZWNI34PxpLybZqxE9K+IQ3Hr+aic5cdja1BzF\nQlcntc95ky/rDTE3jrZ62ega7HOEgehZRU/tY5TPnKPvHOZHrNhJxPW7/7w9Wysy\ng/UzPLS3cckjVaMUQ6D0XnlL\n-----END PRIVATE KEY-----\n",
+  "client_email": "app-48@ganaderia-301014.iam.gserviceaccount.com",
+  "client_id": "118104973687511731360",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/app-48%40ganaderia-301014.iam.gserviceaccount.com"
+}
